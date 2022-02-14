@@ -7,7 +7,9 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 # Table of Contents 📚
 
-- En preparation
+1. [Installer Rust 🦀](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust)
+    - [Linux 😎](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#linux)
+    - [Windows 💩](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#windows)
 
     
 
