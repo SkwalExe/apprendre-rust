@@ -63,7 +63,7 @@ $ ./main
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/course/cargo">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/course/hello-world-cargo">Section suivante ⏭️</a></p>
 
 
 ---

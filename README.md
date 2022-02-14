@@ -10,12 +10,17 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 1. [Installer Rust 🦀](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust)
     - [Linux 😎](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#linux)
     - [Windows 💩](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#windows)
-2. [Hello world 👋](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world)
+1. [Hello world 👋](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world)
     - [Declarer une fonction ](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#declarer-une-fonction)
     - [Afficher un message 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#afficher-un-message)
     - [Compiler et executer un programme](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#compiler-et-executer-un-programme)
 
-    
+1. [Hello world avec cargo 🚢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo)
+    - [Qu'est-ce que cargo?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#quest-ce-que-cargo)
+    - [Créer un projet](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#creer-un-projet)
+    - [Compiler et executer un programme](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer-un-programme)
+        - [Juste compiler](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#juste-compiler)
+        - [Compiler et executer](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
 
 
 # Des questions ? Envie de montrer votre projet ? 
