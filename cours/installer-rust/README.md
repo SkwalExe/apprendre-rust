@@ -11,12 +11,11 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ## Windows💩
 L'installeur de Rust est disponible sur [Rustup.rs](https://rustup.rs/).
 
-<!--
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/hello-world">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world">Section suivante ⏭️</a></p>
+
 
 ---
 
