@@ -61,13 +61,10 @@ $ ./main
 
 *Et c'est comme ça qu'on écrit un programme `hello-world` en rust !*
 
-
-<!--
-
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/course/hello-world">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/course/cargo">Section suivante ⏭️</a></p>
+
 
 ---
 
