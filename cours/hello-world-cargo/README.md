@@ -77,7 +77,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/course/hello-world">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world">Section suivante ⏭️</a></p>
 -->
 
 ---
