@@ -1,4 +1,4 @@
-# Table of Contents📚
+# Sommaire📚
 - [Qu'est-ce que cargo?](#quest-ce-que-cargo)
 - [Créer un projet](#creer-un-projet)
 - [Compiler et exécuter un programme](#compiler-et-executer-un-programme)
@@ -73,12 +73,11 @@ $ cargo run
 
 
 
-<!--
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables">Section suivante ⏭️</a></p>
+
 
 ---
 

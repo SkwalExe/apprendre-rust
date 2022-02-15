@@ -1,4 +1,4 @@
-# Table of Contents📚
+# Sommaire📚
 - [Déclarer une fonction](#declarer-une-fonction)
 - [Afficher un message 💬](#afficher-un-message)
 - [Compiler et exécuter un programme](#compiler-et-executer-un-programme)

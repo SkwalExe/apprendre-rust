@@ -22,6 +22,11 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
         - [Juste compiler](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#juste-compiler)
         - [Compiler et executer](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
 
+1. [Les variables 📦](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables)
+    - [Declarer une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#declarer-une-variable)
+    - [Afficher une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#afficher-une-variable)
+    - [Modifier une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#modifier-une-variable)
+    - [Les variables mutables](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#les-variables-mutable)
 
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
