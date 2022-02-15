@@ -5,6 +5,8 @@
 
 Avant d'apprendre un langage de programmation, il faut comprendre les bases de la programmation, [**l'algorithmique**](https://www.youtube.com/watch?v=kk6YbA5I-Iw&list=PL2aehqZh72Lumvy4tSekr6Rzcgwn15MLI)
 
+**Es tu anglais ? Tu preferera peut etre la version anglaise de ce cours [ici](https://github.com/SkwalExe/learn-rust)**
+
 # Table of Contents 📚
 
 1. [Installer Rust 🦀](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust)
