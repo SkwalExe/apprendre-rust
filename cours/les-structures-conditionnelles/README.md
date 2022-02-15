@@ -62,14 +62,10 @@ executons le code avec `x = 5` et nous verrons `Bonjour` dans la console, et ave
 > ℹ️ Nous pouvons ajouter autant de `else if` que nous le souhaitons. Les conditions des `else if` seront testées dans l'ordre apres le `if` principal.
 
 
-
-
-<!--
-
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies">Section suivante ⏭️</a></p>
+
 
 ---
 

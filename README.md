@@ -40,6 +40,12 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [else](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else)
     - [else if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else-if)
 
+1. [les boucles infinies ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies)
+    - [Qu'est-ce qu'une boucle infinie?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
+    - [Le mot clé loop](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop)
+    - [Le mot clé break](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
+    - [Le mot clé continue](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue)
+    
 
 
 # Des questions ? Envie de montrer votre projet ? 
