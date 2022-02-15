@@ -30,6 +30,10 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Modifier une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#modifier-une-variable)
     - [Les variables mutables](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#les-variables-mutable)
 
+1. [Les types de donnéees](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees/)
+    - [Que sont les types de données?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
+    - [Spécifier le type de donnée d'une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#specifier-le-type-de-donnee-dune-variable)
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
