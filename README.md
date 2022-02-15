@@ -34,6 +34,14 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Que sont les types de données?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
     - [Spécifier le type de donnée d'une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#specifier-le-type-de-donnee-dune-variable)
 
+1. [Les structures conditionnelles 🏗](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles)
+    - [Les operateurs de comparaison](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#les-operateurs-de-comparaison)
+    - [if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#if)
+    - [else](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else)
+    - [else if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else-if)
+
+
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
