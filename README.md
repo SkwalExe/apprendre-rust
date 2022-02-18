@@ -15,23 +15,23 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 1. [Hello world 👋](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world)
     - [Declarer une fonction ](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#declarer-une-fonction)
     - [Afficher un message 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#afficher-un-message)
-    - [Compiler et executer un programme](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#compiler-et-executer-un-programme)
+    - [Compiler et executer un programme 🏃‍](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#compiler-et-executer-un-programme)
 
 1. [Hello world avec cargo 🚢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo)
-    - [Qu'est-ce que cargo?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#quest-ce-que-cargo)
-    - [Créer un projet](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#creer-un-projet)
-    - [Compiler et executer un programme](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer-un-programme)
+    - [Qu'est-ce que cargo ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#quest-ce-que-cargo)
+    - [Créer un projet 🆕](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#creer-un-projet)
+    - [Compiler et executer un programme 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer-un-programme)
         - [Juste compiler](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#juste-compiler)
-        - [Compiler et executer](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
+        - [Compiler et executer 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
 
 1. [Les variables 📦](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables)
     - [Declarer une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#declarer-une-variable)
-    - [Afficher une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#afficher-une-variable)
+    - [Afficher une variable 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#afficher-une-variable)
     - [Modifier une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#modifier-une-variable)
     - [Les variables mutables](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#les-variables-mutable)
 
 1. [Les types de donnéees](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees/)
-    - [Que sont les types de données?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
+    - [Que sont les types de données ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
     - [Spécifier le type de donnée d'une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#specifier-le-type-de-donnee-dune-variable)
 
 1. [Les structures conditionnelles 🏗](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles)
@@ -41,15 +41,15 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [else if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else-if)
 
 1. [les boucles infinies ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies)
-    - [Qu'est-ce qu'une boucle infinie?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
-    - [Le mot clé loop](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop)
-    - [Le mot clé break](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
-    - [Le mot clé continue](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue)
+    - [Qu'est-ce qu'une boucle infinie ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
+    - [Le mot clé loop ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop)
+    - [Le mot clé break 🛑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
+    - [Le mot clé continue ➡️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue)
     
-1. [Les boucles while🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while)
-    - [Qu'est-ce qu'une boucle while?](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#quest-ce-quune-boucle-while)
-    - [Le mot clé while](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#le-mot-cle-while)
-    - [Les mots clés break et continue](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#les-mots-cles-break-et-continue)
+1. [Les boucles while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while)
+    - [Qu'est-ce qu'une boucle while ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#quest-ce-quune-boucle-while)
+    - [Le mot clé while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#le-mot-cle-while)
+    - [Les mots clés break et continue 🔑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#les-mots-cles-break-et-continue)
 
 
 # Des questions ? Envie de montrer votre projet ? 
