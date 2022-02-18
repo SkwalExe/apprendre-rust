@@ -33,12 +33,11 @@ Sortie:
 ## Les mots cles break et continue🔑
 Nous pouvons aussi utiliser les mots clé `break` et `continue` comme vu dans la section [Les boucles infinies♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies).
 
-<!--
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for">Section suivante ⏭️</a></p>
+
 
 ---
 

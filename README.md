@@ -51,6 +51,14 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Le mot clé while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#le-mot-cle-while)
     - [Les mots clés break et continue 🔑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#les-mots-cles-break-et-continue)
 
+1. [Les boucles for 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for)
+    - [Qu'est ce qu'une boucle for ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quune-boucle-for)
+    - [Le mot clé `for` 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#le-mot-cle-for)
+    - [Iteration de vecteurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iteration-de-vecteurs)
+        - [Qu'est ce qu'un vecteur ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quun-vecteur)
+        - [Déclarer un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#declarer-un-vecteur)
+        - [Iterer sur un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur)
+        - [Iterer sur un vecteur avec l'indice 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur-avec-lindice)
 
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
