@@ -24,7 +24,7 @@ Nous pouvons le faire avec le mot clé `if` (`si` en français)
 
 ```rust
 if x > 0 {
-    println!("x est positif");
+    println!("x est positif 👍");
 }
 ```
 
@@ -36,12 +36,12 @@ Imaginons etre un programmeur et devoir ecrire un programme qui dit "bonjour" si
 Nous allons d'abord verifier si `x` est égale a `5`, et utiliser le mot clé `else` (`sinon en francais) pour executer du code si la condition n'est pas vraie.
 ```rust
 if x == 5 {
-    println!("Bonjour");
+    println!("Bonjour 👋");
 } else {
-    println!("Au revoir");
+    println!("Au revoir 🫂");
 }
 ```
-Executons le code avec `x = 5` et nous verrons `Bonjour` dans la console, et avec `x = 6` nous verrons `Au revoir`.
+Executons le code avec `x = 5` et nous verrons `Bonjour 👋` dans la console, et avec `x = 6` nous verrons `Au revoir 🫂`.
 
 ## else if 
 Il est possible d'avoir plus d'une condition a verifier.
@@ -49,15 +49,15 @@ Imaginons etre un programmeur et devoir ecrire un programme qui dit "bonjour" si
 
 ```rust
 if x == 5 {
-    println!("Bonjour");
+    println!("Bonjour 👋");
 } else if x == 6 {
-    println!("Bonsoir");
+    println!("Bonsoir 🌆");
 } else {
-    println!("Au revoir");
+    println!("Au revoir 🫂");
 }
 ```
 
-executons le code avec `x = 5` et nous verrons `Bonjour` dans la console, et avec `x = 6` nous verrons `Bonsoir`, avec `x = 7` nous verrons `Au revoir` car aucune des condition n'est vraie.
+executons le code avec `x = 5` et nous verrons `Bonjour 👋` dans la console, et avec `x = 6` nous verrons `Bonsoir 🌆`, avec `x = 7` nous verrons `Au revoir 🫂` car aucune des condition n'est vraie.
 
 > ℹ️ Nous pouvons ajouter autant de `else if` que nous le souhaitons. Les conditions des `else if` seront testées dans l'ordre apres le `if` principal.
 

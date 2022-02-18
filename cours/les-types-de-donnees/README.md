@@ -16,12 +16,12 @@ Mais plus précisement, c'est une valeur de type `i32`, ce qui signigie que c'es
 
 Il y a plein d'autres types de données en Rust
 ```
-i8, i16...     -> entier signés
-u8, u16...     -> entier non signés
-f32, f64       -> nombre à virgule flottante
-char           -> caractère
-bool           -> soit vrai (true) soit faux (false)
-String         -> chaîne de caractères
+i8, i16...     -> entier signés 🔢
+u8, u16...     -> entier non signés 🔢
+f32, f64       -> nombre à virgule flottante 🔢
+char           -> caractère 🔤
+bool           -> soit vrai (true) soit faux (false) 👍👎
+String         -> chaîne de caractères ✍️
 ```
 
 ## Specifier le type de donnee d'une variable

@@ -38,7 +38,7 @@ Le dossier `📂 src` contient le code de l'application, il y a deja un fichier 
 ```rust
 // 📄 src/main.rs
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world 👋");
 }
 ```
 
@@ -55,7 +55,7 @@ Cette commande a créé un fichier exécutable `📄 hello-world-cargo` dans le 
 ```bash
 # hello-world-cargo/target/debug 📂
 $ ./hello-world-cargo
-> Hello, world!
+> Hello, world 👋
 ```
 ![](1.png)
 ### Compiler et executer🏃
@@ -64,7 +64,7 @@ Pour compiler et executer le programme, nous allons utiliser la commande `cargo 
 # hello-world-cargo 📂
 $ cargo run
 ...
-> Hello, world!
+> Hello, world 👋
 ```
 ![](2.png)
 

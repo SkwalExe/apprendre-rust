@@ -9,7 +9,7 @@
 Pour déclarer une variable, on utilise le mot clé `let` suivi du nom de la variable, du signe `=` et de la valeur de la variable.
 
 ```rust
-let x = 5;
+let singes = 5;
 ```
 
 Nous avons maintenant une variable  `x` avec pour valeur `5`.
@@ -18,28 +18,28 @@ Nous pouvons maintenant utiliser la variable `x` dans notre programme, par exemp
 
 ```rust
 let x = 5;
-println!("La valeur de x est : {}", x);
+println!("Il y a {} Singes 🐒", singes);
 ```
 
 `{}` est un placeholder pour la valeur de `x`. Il sera remplacé par sa valeur lors de l'exécution du programme.
 Si nous exécutons le programme, nous obtenons la sortie suivante:
 ```
-La valeur de x est : 5
+Il y a 5 Singes 🐒
 ```
 
 Le programme fonctionne comme si nous avions écrit:
 ```rust
-println!("La valeur de x est : {}", 5);
+println!("Il y a {} Singes 🐒", 5);
 ```
-parce que `x` est remplacé par sa valeur.
+parce que `singes` est remplacé par sa valeur.
 ## Modifier une variable
 Nous pouvons modifier la valeur d'une variable en utilisant la syntaxe suivante:
 
 ```rust 
 // déclaration de la variable
-let x = 5;
+let chiens = 5;
 // modification de la variable
-x = 6;
+chiens = 6;
 ```
 
 Mais si nous exécutons le programme, nous obtenons l'erreur suivante:
@@ -51,14 +51,14 @@ Nous obtenons cette erreur car par défaut, les variables sont immutables. Cela 
 Nous pouvons définir une variable comme mutable en utilisant le mot clé `mut` avant le nom de la variable.
 
 ```rust
-let mut x = 5;
-x = 6;
-println!("La valeur de x est : {}", x);
+let mut chiens = 5;
+chiens = 6;
+println!("Il y a {} Chiens 🐶", chiens);
 ```
 
 Sortie:
 ```
-La valeur de x est : 6
+Il y a 6 Chiens 🐶
 ```
 
 *Et c'est comme ca que l'on déclare des variables en rust !*

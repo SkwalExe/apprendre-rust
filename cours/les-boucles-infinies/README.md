@@ -10,18 +10,19 @@ Les boucles infinies nous permettent d'executer un bloque de code a l'infini jus
 ## le mot cle loop♾️
 Pour créer une boucle infinie, on utilise le mot clé loop 
 
-exemple, afficher `Rust rocks` a l'infini:
+exemple, afficher `Les 🐒 mangent des 🍌` a l'infini:
 ```rust
 loop {
-    println!("Rust rocks");
+    println!("Les 🐒 mangent des 🍌");
 }
 ```
 Sortie:
 ```
-Rust rocks
-Rust rocks
-Rust rocks
-Rust rocks
+Les 🐒 mangent des 🍌
+Les 🐒 mangent des 🍌
+Les 🐒 mangent des 🍌
+Les 🐒 mangent des 🍌
+Les 🐒 mangent des 🍌
 ...
 ```
 ## Le mot cle break🛑
@@ -30,27 +31,28 @@ Imaginons vouloir afficher `Rust rocks` 5 fois, puis stoper l'execution de la bo
 ```rust
 let mut i = 0;
 loop {
-    println!("Rust rocks");
-    i += 1;
+    println!("Les 🐕 mangent des 🌭");
     if i == 5 {
         break;
     }
+    i += 1;
 }
 ```
 On ajoute 1 a la cariable `count` a chaque tour de boucle, et, quand `count` est égale a 5, on arrete la boucle.
 Sortie:
 ```
-Rust rocks
-Rust rocks
-Rust rocks
-Rust rocks
-Rust rocks
+Les 🐕 mangent des 🌭
+Les 🐕 mangent des 🌭
+Les 🐕 mangent des 🌭
+Les 🐕 mangent des 🌭
+Les 🐕 mangent des 🌭
 ```
 
 ## Le mot cle continue➡️
 le mot clé `continue` permet de passer directement a la prochaine iteration de la boucle.
 > ℹ️ une iteration correspond a une execution individuelle de la boucle.
-Imaginons que nous voulons dire "Hello" 5 fois, mais que nous voulons ignorer le deuxieme
+
+Imaginons que nous voulons dire "J'ai mangé x 🥭" 5 fois, mais que nous voulons ignorer le deuxieme
 ```rust
 let mut i = 0;
 loop {
@@ -58,7 +60,7 @@ loop {
     if i == 2 {
         continue;
     }
-    println!("{} : Hello", i);
+    println!("J'ai mangé {} 🥭", i);
     if i == 5 {
         break;
     }
@@ -67,14 +69,14 @@ loop {
 
 > ℹ️ `count += 1` est equivalent a `count = count + 1`
 
-On ajoute 1 a la cariable `count` a chaque tour de boucle, et, quand `count` est égale a 2, on passe directement a la prochaine iteration de la boucle sans dire "Hello".
+On ajoute 1 a la cariable `count` a chaque tour de boucle, et, quand `count` est égale a 2, on passe directement a la prochaine iteration de la boucle sans dire "J'ai mangé x 🥭".
 
 Sortie:
 ```
-1 : Hello
-3 : Hello
-4 : Hello
-5 : Hello
+J'ai mangé 1 🥭
+J'ai mangé 3 🥭
+J'ai mangé 4 🥭
+J'ai mangé 5 🥭
 ```
 
 
