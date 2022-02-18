@@ -1,16 +1,16 @@
 # Sommaire📚
-- [Qu'est-ce que cargo?](#quest-ce-que-cargo)
-- [Créer un projet](#creer-un-projet)
-- [Compiler et exécuter un programme](#compiler-et-executer-un-programme)
+- [Qu'est-ce que cargo ❓](#quest-ce-que-cargo)
+- [Créer un projet 🆕](#creer-un-projet)
+- [Compiler et exécuter un programme 🏃](#compiler-et-executer-un-programme)
     - [Juste compiler](#juste-compiler)
-    - [Compiler et exécuter](#compiler-et-executer)
+    - [Compiler et exécuter 🏃](#compiler-et-executer)
 
 # Hello world avec cargo🚢
-## Qu'est-ce que cargo?
+## Qu'est-ce que cargo❓
 Cargo est un **gestionnaire de paquets Rust**. Il est utilisé pour gérer les dépendances et les projets Rust.
 
 
-## Creer un projet
+## Creer un projet🆕
 Nous allons créer un projet appelé `hello-world-cargo`, pour faire ca nous allons utiliser la commande suivante:
 > ℹ️ l'option `--bin` permet de specifier que notre project est une application et non un module.
 ```bash
@@ -42,7 +42,7 @@ fn main() {
 }
 ```
 
-## Compiler et executer un programme
+## Compiler et executer un programme🏃
 ### Juste compiler
 Pour compiler le programme, nous allons utiliser la commande `cargo build`.
 ```bash
@@ -58,7 +58,7 @@ $ ./hello-world-cargo
 > Hello, world!
 ```
 ![](1.png)
-### Compiler et executer
+### Compiler et executer🏃
 Pour compiler et executer le programme, nous allons utiliser la commande `cargo run`.
 ```bash
 # hello-world-cargo 📂

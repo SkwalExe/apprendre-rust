@@ -1,13 +1,13 @@
 # Sommaire📚
-- [Qu'est-ce qu'une boucle infinie ?](#quest-ce-quune-boucle-infinie)
-- [Le mot clé `loop`](#le-mot-cle-loop)
-- [Le mot clé `break`](#le-mot-cle-break)
-- [Le mot clé `continue`](#le-mot-cle-continue)
+- [Qu'est-ce qu'une boucle infinie ❓](#quest-ce-quune-boucle-infinie)
+- [Le mot clé `loop` ♾️](#le-mot-cle-loop)
+- [Le mot clé `break` 🛑](#le-mot-cle-break)
+- [Le mot clé `continue` ➡️](#le-mot-cle-continue)
 
 # Les boucles infinies♾️
-## Qu'est ce qu'une boucle infinie?
+## Qu'est ce qu'une boucle infinie❓
 Les boucles infinies nous permettent d'executer un bloque de code a l'infini jusqu'a ce que l'on spécifie quand l'arreter
-## le mot cle loop
+## le mot cle loop♾️
 Pour créer une boucle infinie, on utilise le mot clé loop 
 
 exemple, afficher `Rust rocks` a l'infini:
@@ -24,7 +24,7 @@ Rust rocks
 Rust rocks
 ...
 ```
-## Le mot cle break
+## Le mot cle break🛑
 le mot clé `break` permet d'arreter l'execution d'une boucle.
 Imaginons vouloir afficher `Rust rocks` 5 fois, puis stoper l'execution de la boucle.
 ```rust
@@ -47,7 +47,7 @@ Rust rocks
 Rust rocks
 ```
 
-## Le mot cle continue
+## Le mot cle continue➡️
 le mot clé `continue` permet de passer directement a la prochaine iteration de la boucle.
 > ℹ️ une iteration correspond a une execution individuelle de la boucle.
 Imaginons que nous voulons dire "Hello" 5 fois, mais que nous voulons ignorer le deuxieme

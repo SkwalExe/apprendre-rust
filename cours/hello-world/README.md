@@ -1,7 +1,7 @@
 # Sommaire📚
 - [Déclarer une fonction](#declarer-une-fonction)
 - [Afficher un message 💬](#afficher-un-message)
-- [Compiler et exécuter un programme](#compiler-et-executer-un-programme)
+- [Compiler et exécuter un programme 🏃‍](#compiler-et-executer-un-programme)
 
 # Hello world👋
 ## Declarer une fonction
@@ -33,13 +33,13 @@ Dans la fonction, nous allons appeler la macro `println!` pour afficher un messa
 ```rust
 // 📄 main.rs
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world 👋");
 }
 ```
 
 > ℹ️ Toutes les instructions se terminent par un point-virgule `;`
 
-## Compiler et executer un programme
+## Compiler et executer un programme🏃‍
 Maintenant que nous avons écrit notre programme, nous allons le compiler et l'exécuter.
 
 Pour compiler le programme, nous pouvons utiliser la commande `rustc`:
@@ -53,7 +53,7 @@ Exectuer cette commande créé un fichier exécutable nommé `📄 main` dans le
 
 ```bash
 $ ./main
-> Hello, world!
+> Hello, world 👋
 ```
 > ℹ️ `>` : Output de la commande
 

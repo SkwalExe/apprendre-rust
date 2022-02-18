@@ -6,7 +6,7 @@
 ## Linux😎
 Tres simple, il suffit d'executer la commande suivante:
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+🐚 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 ## Windows💩
 L'installeur de Rust est disponible sur [Rustup.rs](https://rustup.rs/).

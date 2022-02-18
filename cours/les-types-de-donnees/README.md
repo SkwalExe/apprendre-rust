@@ -1,10 +1,10 @@
 # Sommaire📚
-- [Que sont les types de données](#que-sont-les-types-de-donnees)
+- [Que sont les types de données ❓](#que-sont-les-types-de-donnees)
 - [Spécifier le type de donnée d'une variable](#specifier-le-type-de-donnee-dune-variable)
 
 
 # Les types de données
-## Que sont les types de donnees?
+## Que sont les types de donnees❓
 Quand nous déclarons une variable, par exemple:
 ```rust
 let x = 5;

@@ -1,11 +1,11 @@
 # Sommaire📚
-- [Qu'est ce qu'une boucle while](#quest-ce-quune-boucle-while)
-- [Le mot clé `while`](#le-mot-cle-while)
-- [Les mots clés `break` et `continue`](#les-mots-cles-break-et-continue)
+- [Qu'est ce qu'une boucle while ❓](#quest-ce-quune-boucle-while)
+- [Le mot clé `while` 🔁](#le-mot-cle-while)
+- [Les mots clés `break` et `continue` 🔑](#les-mots-cles-break-et-continue)
 # Les boucles while🔁
-## Qu'est ce qu'une boucle while?
+## Qu'est ce qu'une boucle while❓
 Les boucles while permettent d'executer un block de code aussi longtemps qu'une condition est vraie.
-## Le mot cle while
+## Le mot cle while🔁
 Le mot clé while eest utilisé pour créer une boucle while.
 
 exemple:
@@ -30,7 +30,7 @@ Sortie:
 3
 4
 ```
-## Les mots cles break et continue
+## Les mots cles break et continue🔑
 Nous pouvons aussi utiliser les mots clé `break` et `continue` comme vu dans la section [Les boucles infinies♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies).
 
 <!--

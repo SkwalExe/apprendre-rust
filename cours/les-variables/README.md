@@ -1,6 +1,6 @@
 # Sommaire📚
 - [Déclarer une variable](#declarer-une-variable)
-- [Afficher une variable](#afficher-une-variable)
+- [Afficher une variable 💬](#afficher-une-variable)
 - [Modifier une variable](#modifier-une-variable)
 - [Les variables mutables](#les-variables-mutable)
 
@@ -13,7 +13,7 @@ let x = 5;
 ```
 
 Nous avons maintenant une variable  `x` avec pour valeur `5`.
-## Afficher une variable
+## Afficher une variable💬
 Nous pouvons maintenant utiliser la variable `x` dans notre programme, par exemple, pour l'afficher:
 
 ```rust
