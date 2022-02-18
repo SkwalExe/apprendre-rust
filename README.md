@@ -42,9 +42,9 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 1. [les boucles infinies ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies)
     - [Qu'est-ce qu'une boucle infinie ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
-    - [Le mot clé loop ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop)
+    - [Le mot clé loop ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop️)
     - [Le mot clé break 🛑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
-    - [Le mot clé continue ➡️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue)
+    - [Le mot clé continue ➡️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue️)
     
 1. [Les boucles while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while)
     - [Qu'est-ce qu'une boucle while ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#quest-ce-quune-boucle-while)
