@@ -60,6 +60,14 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
         - [Iterer sur un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur)
         - [Iterer sur un vecteur avec l'indice 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur-avec-lindice)
 
+1. [Les types enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum)
+    - [Qu'est ce qu'un enum ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quun-enum)
+    - [Déclarer un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#declarer-un-enum)
+    - [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
+        - [Qu'est ce qu'une expression match ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quune-expression-match)
+        - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#usage)
+        - [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)

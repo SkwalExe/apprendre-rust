@@ -101,12 +101,12 @@ J'adore les 🍓 Fraise à l'indice 2
 > ℹ️ On utilise `(index, fruit)` car la method `enumerate()` renvoie un tuple avec l'indice et la valeur.
 
 
-<!--
+
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum">Section suivante ⏭️</a></p>
+
 
 ---
 
