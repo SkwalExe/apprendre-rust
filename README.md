@@ -68,6 +68,11 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
         - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#usage)
         - [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
 
+1. [Les constantes](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes)
+    - [Qu'est ce qu'une constante ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#quest-ce-quune-constant)
+    - [Déclarer une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#declarer-une-constante)
+    - [Utiliser une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#utiliser-une-constante)
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)

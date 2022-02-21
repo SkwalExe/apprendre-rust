@@ -77,7 +77,7 @@ Voici l'execution de ce code avec les differentes valeurs que peut avoir la vari
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes">Section suivante ⏭️</a></p>
 -->
 
 ---
