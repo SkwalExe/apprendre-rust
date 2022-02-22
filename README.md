@@ -73,6 +73,13 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Déclarer une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#declarer-une-constante)
     - [Utiliser une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#utiliser-une-constante)
 
+1. [Les tuples](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples)
+    - [Qu'est ce qu'un tuple ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#quest-ce-quun-tuple)
+    - [Déclarer un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#declarer-un-tuple)
+    - [Acceder aux valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#acceder-aux-valeurs-dun-tuple)
+    - [Extraire les valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#extraire-les-valeurs-dun-tuple)
+
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
