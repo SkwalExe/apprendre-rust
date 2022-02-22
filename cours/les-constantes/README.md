@@ -47,12 +47,9 @@ Sortie:
 Parce que nous utilisons une constante, nous ne pouvons pas la modifier, si nous la modifions, nous obtiendrons l'erreur suivante:
 ![](1.png)
 
-<!--
-
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples">Section suivante ⏭️</a></p>
 
 ---
 
