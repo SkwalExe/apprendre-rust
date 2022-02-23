@@ -9,7 +9,7 @@ Quand nous déclarons une variable, par exemple:
 ```rust
 let x = 5;
 ```
-La valeur de `x` est 5, et `5` est, biensure, un nombre.
+La valeur de `x` est `5`, et `5` est, biensure, un nombre.
 Mais plus précisement, c'est une valeur de type `i32`, ce qui signigie que c'est un entier signé de 32 bits.
 
 > ℹ️ Un entier non signé est un entier qui est toujours positif, tandis qu'un entier signé est un entier qui peut etre positif et negatif.

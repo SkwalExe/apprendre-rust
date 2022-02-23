@@ -1,6 +1,6 @@
 # Sommaire📚
 - [Qu'est ce qu'une boucle for ❓](#quest-ce-quune-boucle-for)
-- [Le mot clé `for` 🔁](#le-mot-cle-for)
+- [Le mot clé `for` 🔑](#le-mot-cle-for)
 - [Iteration de vecteurs](#iteration-de-vecteurs)
     - [Qu'est ce qu'un vecteur ❓](#quest-ce-quun-vecteur)
     - [Déclarer un vecteur](#declarer-un-vecteur)

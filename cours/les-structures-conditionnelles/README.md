@@ -18,9 +18,10 @@ Les operateurs de comparaison sont utilisés pour comparer des valeurs entre ell
 | >= | Supérieur ou égal à |
 
 ## if
-Imaginons etre un programmeur et avoir a ecire un programme qui dit si la veleure d'une variable `x` est positive
+Imaginons etre un programmeur et avoir a ecire un programme qui dit si la veleure d'une variable `x` est positive.
+
 Pour ca, nous llons verifier si `x` est superieur a 0.
-Nous pouvons le faire avec le mot clé `if` (`si` en français)
+Nous pouvons le faire avec le mot clé `if` (`si` en anglais) suivi de la condition et du code à exécuter si la condition est vraie.
 
 ```rust
 if x > 0 {
@@ -28,12 +29,12 @@ if x > 0 {
 }
 ```
 
-le code entre les `{}` sera executé si la condition `x > 0` est vraie et nous verrons `x est positif` dans la console, sinon, il sera ignoré et rien ne se passera.
+le code entre les `{}` sera executé si la condition `x > 0` est vraie et nous verrons `x est positif 👍` dans la console, sinon, il sera ignoré et rien ne se passera.
 
 ## else
-Imaginons etre un programmeur et devoir ecrire un programme qui dit "bonjour" si la valeure d'une variable `x` est égale a `5` ou "au revoir" si elle ne l'est pas.
+Imaginons etre un programmeur et devoir ecrire un programme qui dit `bonjour` si la valeure d'une variable `x` est égale a `5` ou `au revoir` si elle ne l'est pas.
 
-Nous allons d'abord verifier si `x` est égale a `5`, et utiliser le mot clé `else` (`sinon en francais) pour executer du code si la condition n'est pas vraie.
+Nous allons d'abord verifier si `x` est égale a `5`, et utiliser le mot clé `else` (`sinon` en francais) pour executer du code si la condition n'est pas vraie.
 ```rust
 if x == 5 {
     println!("Bonjour 👋");
@@ -45,7 +46,7 @@ Executons le code avec `x = 5` et nous verrons `Bonjour 👋` dans la console, e
 
 ## else if 
 Il est possible d'avoir plus d'une condition a verifier.
-Imaginons etre un programmeur et devoir ecrire un programme qui dit "bonjour" si la valeure d'une variable `x` est égale a `5`, "bonsoir" si elle est égale a `6` ou "au revoir" si elle ne l'est pas.
+Imaginons etre un programmeur et devoir ecrire un programme qui dit `bonjour` si la valeure d'une variable `x` est égale a `5`, `bonsoir` si elle est égale a `6` ou `au revoir` si elle ne l'est pas.
 
 ```rust
 if x == 5 {

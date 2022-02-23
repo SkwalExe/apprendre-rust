@@ -5,13 +5,13 @@
 
 # Hello world👋
 ## Declarer une fonction
-Nous allons démarrer ce cours en creant un programme `hello-world`, en Rust 🦀.
+Nous allons démarrer ce cours en créant un programme `hello-world`, en Rust 🦀.
 
-Nous allons commencer par creer un dossier `📂 hello-world` dans lequel nous allons créer le fichier `📄 main.rs`:
+Nous allons commencer par créer un dossier `📂 hello-world` dans lequel nous allons créer le fichier `📄 main.rs`:
 
 > ℹ️ `.rs` est l'extension pour les fichier Rust.
 
-Nous pouvons maintenant ouvrir le fichier `📄 main.rs` dans notre IDE, ainsi que dans un terminal de votre choix, et commencer à écrire notre programme.
+Nous pouvons maintenant ouvrir le fichier `📄 main.rs` dans notre IDE, ainsi que d'un terminal de votre choix, et commencer à écrire notre programme.
 
 On déclare une fonction appelée `main` car tous les programmes Rust commencent par une fonction `main`.
 
@@ -28,7 +28,7 @@ fn main() {
 
 ## Afficher un message💬
 
-Dans la fonction, nous allons appeler la macro `println!` pour afficher un message dans la console. Et nous passons le string `Hello, world!` en argument.
+Dans la fonction, nous allons appeler la macro `println!` pour afficher un message dans la console. Et nous passons la chaîne de caractères `Hello, world!` en argument.
 
 ```rust
 // 📄 main.rs
@@ -42,7 +42,7 @@ fn main() {
 ## Compiler et executer un programme🏃‍
 Maintenant que nous avons écrit notre programme, nous allons le compiler et l'exécuter.
 
-Pour compiler le programme, nous pouvons utiliser la commande `rustc`:
+Pour compiler le programme, nous pouvons utiliser la commande `rustc` suivi du nom du fichier a compiler:
 
 ```bash
 $ rustc main.rs
@@ -58,8 +58,6 @@ $ ./main
 > ℹ️ `>` : Output de la commande
 
 ![](1.png)
-
-*Et c'est comme ça qu'on écrit un programme `hello-world` en rust !*
 
 ---
 

@@ -12,12 +12,12 @@ Cargo est un **gestionnaire de paquets Rust**. Il est utilisé pour gérer les d
 
 ## Creer un projet🆕
 Nous allons créer un projet appelé `hello-world-cargo`, pour faire ca nous allons utiliser la commande suivante:
-> ℹ️ l'option `--bin` permet de specifier que notre project est une application et non un module.
 ```bash
 $ cargo new hello-world-cargo --bin
 
 > Created binary (application) `hello-world-cargo` package.
 ```
+> ℹ️ l'option `--bin` permet de specifier que notre project est une application et non un module.
 
 Cette commande a créé un nouveau dossier `📂 hello-world-cargo` dans le répertoire courant. Ce dossier contient un fichier `📄 Cargo.toml`, un dossier `📂 src` et un fichier `📄 main.rs`.
 
@@ -41,6 +41,15 @@ fn main() {
     println!("Hello, world 👋");
 }
 ```
+
+| fichier | description |
+| --- | --- |
+| `📄 Cargo.toml` | le fichier de configuration du projet |
+| `📂 src` | le dossier contenant le code de l'application |
+| `📄 main.rs` | le fichier contenant le programme `hello-world` |
+| `📂 .git` | le dossier contenant les fichier git, vous pouvez l'ignorer si vous n'utilisez pas git |
+| `📄 .gitignore` | le fichier contenant les fichiers à ignorer lors des commits |
+
 
 ## Compiler et executer un programme🏃
 ### Juste compiler
@@ -67,12 +76,6 @@ $ cargo run
 > Hello, world 👋
 ```
 ![](2.png)
-
-*Et c'est comme ca que l'on crée un programme `hello-world` en rust a l'aide de cargo !*
-
-
-
-
 
 ---
 

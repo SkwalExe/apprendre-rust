@@ -12,16 +12,16 @@ Pour déclarer une variable, on utilise le mot clé `let` suivi du nom de la var
 let singes = 5;
 ```
 
-Nous avons maintenant une variable  `x` avec pour valeur `5`.
+Nous avons maintenant une variable  `singes` avec pour valeur `5`.
 ## Afficher une variable💬
-Nous pouvons maintenant utiliser la variable `x` dans notre programme, par exemple, pour l'afficher:
+Nous pouvons maintenant utiliser la variable `singes` dans notre programme, par exemple, pour l'afficher:
 
 ```rust
 let x = 5;
 println!("Il y a {} Singes 🐒", singes);
 ```
 
-`{}` est un placeholder pour la valeur de `x`. Il sera remplacé par sa valeur lors de l'exécution du programme.
+`{}` est un placeholder pour la valeur de `singes`. Il sera remplacé par sa valeur lors de l'exécution du programme.
 Si nous exécutons le programme, nous obtenons la sortie suivante:
 ```
 Il y a 5 Singes 🐒
@@ -42,7 +42,7 @@ let chiens = 5;
 chiens = 6;
 ```
 
-Mais si nous exécutons le programme, nous obtenons l'erreur suivante:
+Mais si nous exécutons ce code, nous obtenons l'erreur suivante:
 ![](1.png)
 
 Nous obtenons cette erreur car par défaut, les variables sont immutables. Cela signifie que nous ne pouvons pas modifier leur valeur.
@@ -60,13 +60,6 @@ Sortie:
 ```
 Il y a 6 Chiens 🐶
 ```
-
-*Et c'est comme ca que l'on déclare des variables en rust !*
-
-
-
-
-
 
 ---
 
