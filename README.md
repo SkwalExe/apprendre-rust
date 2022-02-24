@@ -79,6 +79,10 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Acceder aux valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#acceder-aux-valeurs-dun-tuple)
     - [Extraire les valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#extraire-les-valeurs-dun-tuple)
 
+1. [Les fonctions 🛠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions)
+    - [Qu'est ce qu'une fonction ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#quest-ce-quune-fonction)
+    - [Déclarer une fonction](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#declarer-une-fonction)
+    - [Retourner des valeurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#retourner-des-valeurs)
 
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
