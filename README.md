@@ -84,6 +84,12 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Déclarer une fonction](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#declarer-une-fonction)
     - [Retourner des valeurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#retourner-des-valeurs)
 
+1. [Les blocs de code 🟪](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code)
+    - [Qu'est ce qu'un bloc de code ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#quest-ce-quun-bloc-de-code)
+    - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#usage)
+
+
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
