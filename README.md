@@ -92,6 +92,16 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Qu'est ce que c'est ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#quest-ce-que-cest)
     - [Comment ça marche 🤔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#comment-ca-marche)
 
+1. [Les references 🔗](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references)
+    - [Qu'est ce qu'une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#quest-ce-quune-reference)
+    - [Comment créer une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-creer-une-reference)
+    - [Comment utiliser une reference 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-utiliser-une-reference)
+    - [Modifier une reference ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#modifier-une-reference)
+        - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
+        - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
+    - [Attention ⚠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#attention)
+        - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
+        - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
 
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
