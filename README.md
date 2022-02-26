@@ -88,6 +88,9 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Qu'est ce qu'un bloc de code ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#quest-ce-quun-bloc-de-code)
     - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#usage)
 
+1. [Shadowing 👥](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing)
+    - [Qu'est ce que c'est ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#quest-ce-que-cest)
+    - [Comment ça marche 🤔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#comment-ca-marche)
 
 
 # Des questions ? Envie de montrer votre projet ? 
