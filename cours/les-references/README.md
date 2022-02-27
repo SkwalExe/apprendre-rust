@@ -108,12 +108,10 @@ println!("L'username est : {}", username);
 
 Nous rencontrerons une erreur car la macro `println!` empreinte la variable `username` mais nous avont deja une reference mutable a la variable `username`.
 
-<!--
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs">Section suivante ⏭️</a></p>
 
 ---
 

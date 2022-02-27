@@ -103,6 +103,12 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
         - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
         - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
 
+1. [Les structs 🧱](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs)
+    - [Qu'est ce qu'un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#quest-ce-quun-struct)
+    - [Comment créer un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-creer-un-struct)
+    - [Comment utiliser un struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-utiliser-un-struct)
+    - [Modifier un struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#modifier-un-struct)
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
