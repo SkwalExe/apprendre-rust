@@ -109,6 +109,13 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
     - [Comment utiliser un struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-utiliser-un-struct)
     - [Modifier un struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#modifier-un-struct)
 
+1. [Les tuple structs 🧱](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs)
+    - [Qu'est-ce qu'un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#quest-ce-quun-tuple-struct)
+    - [Comment créer un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-creer-un-tuple-struct)
+    - [Comment utiliser un tuple struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-utiliser-un-tuple-struct)
+    - [Comment modifier un tuple struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-modifier-un-tuple-struct)
+
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)

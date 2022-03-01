@@ -60,12 +60,10 @@ Le nouveau nom d'utilisateur est : Bob le poisson 🐡
 ```
 
 
-<!--
-
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs">Section suivante ⏭️</a></p>
+
 
 ---
 
