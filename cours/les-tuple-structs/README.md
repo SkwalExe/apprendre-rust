@@ -45,7 +45,7 @@ black.0 = 255;
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/passage-par-reference">Section suivante ⏭️</a></p>
 -->
 
 ---

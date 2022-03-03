@@ -193,6 +193,15 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 </details>
 
 
+<details>
+    <summary>19 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/passage-par-reference" >Passage par référence 🖇️</a></summary>
+
+- [Le probleme ❌](#le-probleme)
+- [La solution 💡](#la-solution)
+
+</details>
+    
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
