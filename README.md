@@ -9,111 +9,188 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 # Table of Contents 📚
 
-1. [Installer Rust 🦀](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust)
-    - [Linux 😎](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#linux)
-    - [Windows 💩](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#windows)
-1. [Hello world 👋](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world)
-    - [Declarer une fonction ](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#declarer-une-fonction)
-    - [Afficher un message 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#afficher-un-message)
-    - [Compiler et executer un programme 🏃‍](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#compiler-et-executer-un-programme)
 
-1. [Hello world avec cargo 🚢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo)
-    - [Qu'est-ce que cargo ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#quest-ce-que-cargo)
-    - [Créer un projet 🆕](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#creer-un-projet)
-    - [Compiler et executer un programme 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer-un-programme)
-        - [Juste compiler](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#juste-compiler)
-        - [Compiler et executer 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
+<details>
+    <summary>1 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust" >Installer Rust 🦀</a></summary>
 
-1. [Les variables 📦](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables)
-    - [Declarer une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#declarer-une-variable)
-    - [Afficher une variable 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#afficher-une-variable)
-    - [Modifier une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#modifier-une-variable)
-    - [Les variables mutables](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#les-variables-mutables)
+- [Linux 😎](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#linux)
+- [Windows 💩](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/installer-rust#windows)
 
-1. [Les types de donnéees](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees/)
-    - [Que sont les types de données ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
-    - [Spécifier le type de donnée d'une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#specifier-le-type-de-donnee-dune-variable)
+</details>
 
-1. [Les structures conditionnelles 🏗](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles)
-    - [Les operateurs de comparaison](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#les-operateurs-de-comparaison)
-    - [if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#if)
-    - [else](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else)
-    - [else if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else-if)
+<details>
+    <summary>2 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world" >Hello world 👋</a></summary>
 
-1. [les boucles infinies ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies)
-    - [Qu'est-ce qu'une boucle infinie ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
-    - [Le mot clé loop ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop️)
-    - [Le mot clé break 🛑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
-    - [Le mot clé continue ➡️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue️)
-    
-1. [Les boucles while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while)
-    - [Qu'est-ce qu'une boucle while ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#quest-ce-quune-boucle-while)
-    - [Le mot clé while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#le-mot-cle-while)
-    - [Les mots clés break et continue 🔑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#les-mots-cles-break-et-continue)
+- [Declarer une fonction ](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#declarer-une-fonction)
+- [Afficher un message 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#afficher-un-message)
+- [Compiler et executer un programme 🏃‍](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world#compiler-et-executer-un-programme)
 
-1. [Les boucles for 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for)
-    - [Qu'est ce qu'une boucle for ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quune-boucle-for)
-    - [Le mot clé `for` 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#le-mot-cle-for)
-    - [Iteration de vecteurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iteration-de-vecteurs)
-        - [Qu'est ce qu'un vecteur ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quun-vecteur)
-        - [Déclarer un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#declarer-un-vecteur)
-        - [Iterer sur un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur)
-        - [Iterer sur un vecteur avec l'indice 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur-avec-lindice)
 
-1. [Les types enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum)
-    - [Qu'est ce qu'un enum ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quun-enum)
-    - [Déclarer un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#declarer-un-enum)
+</details>
+
+<details>
+    <summary>3 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo" >Hello world avec cargo 🚢</a></summary>
+
+- [Qu'est-ce que cargo ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#quest-ce-que-cargo)
+- [Créer un projet 🆕](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#creer-un-projet)
+- [Compiler et executer un programme 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer-un-programme)
+    - [Juste compiler](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#juste-compiler)
+    - [Compiler et executer 🏃](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/hello-world-cargo#compiler-et-executer)
+
+</details>
+
+<details>
+    <summary>4 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables" >Les variables 📦</a></summary>
+
+- [Declarer une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#declarer-une-variable)
+- [Afficher une variable 💬](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#afficher-une-variable)
+- [Modifier une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#modifier-une-variable)
+- [Les variables mutables](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables#les-variables-mutables)
+
+</details>
+
+<details>
+    <summary>5 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees/" >Les types de donnéees</a></summary>
+
+- [Que sont les types de données ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#que-sont-les-types-de-donnees)
+- [Spécifier le type de donnée d'une variable](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees#specifier-le-type-de-donnee-dune-variable)
+
+</details>
+
+<details>
+    <summary>6 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles" >Les structures conditionnelles 🏗</a></summary>
+
+
+- [Les operateurs de comparaison](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#les-operateurs-de-comparaison)
+- [if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#if)
+- [else](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else)
+- [else if](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structures-conditionnelles#else-if)
+
+</details>
+
+<details>
+    <summary>7 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies" >les boucles infinies ♾️</a></summary>
+
+- [Qu'est-ce qu'une boucle infinie ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#quest-ce-quune-boucle-infinie)
+- [Le mot clé loop ♾️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-loop️)
+- [Le mot clé break 🛑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-break)
+- [Le mot clé continue ➡️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies#le-mot-cle-continue️)
+
+</details>
+
+<details>
+    <summary>8 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while" >Les boucles while 🔁</a></summary>
+
+- [Qu'est-ce qu'une boucle while ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#quest-ce-quune-boucle-while)
+- [Le mot clé while 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#le-mot-cle-while)
+- [Les mots clés break et continue 🔑](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-while#les-mots-cles-break-et-continue)
+
+</details>
+
+<details>
+    <summary>9 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for" >Les boucles for 🔢</a></summary>
+
+- [Qu'est ce qu'une boucle for ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quune-boucle-for)
+- [Le mot clé `for` 🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#le-mot-cle-for)
+- [Iteration de vecteurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iteration-de-vecteurs)
+    - [Qu'est ce qu'un vecteur ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#quest-ce-quun-vecteur)
+    - [Déclarer un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#declarer-un-vecteur)
+    - [Iterer sur un vecteur](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur)
+    - [Iterer sur un vecteur avec l'indice 🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for#iterer-sur-un-vecteur-avec-lindice)
+
+</details>
+
+<details>
+    <summary>10 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum" >Les types enum</a></summary>
+
+- [Qu'est ce qu'un enum ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quun-enum)
+- [Déclarer un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#declarer-un-enum)
+- [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
+    - [Qu'est ce qu'une expression match ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quune-expression-match)
+    - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#usage)
     - [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
-        - [Qu'est ce qu'une expression match ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#quest-ce-quune-expression-match)
-        - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#usage)
-        - [Matcher un enum](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-enum#matcher-un-enum)
 
-1. [Les constantes](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes)
-    - [Qu'est ce qu'une constante ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#quest-ce-quune-constant)
-    - [Déclarer une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#declarer-une-constante)
-    - [Utiliser une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#utiliser-une-constante)
+</details>
 
-1. [Les tuples](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples)
-    - [Qu'est ce qu'un tuple ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#quest-ce-quun-tuple)
-    - [Déclarer un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#declarer-un-tuple)
-    - [Acceder aux valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#acceder-aux-valeurs-dun-tuple)
-    - [Extraire les valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#extraire-les-valeurs-dun-tuple)
+<details>
+    <summary>11 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes" >Les constantes </a></summary>
 
-1. [Les fonctions 🛠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions)
-    - [Qu'est ce qu'une fonction ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#quest-ce-quune-fonction)
-    - [Déclarer une fonction](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#declarer-une-fonction)
-    - [Retourner des valeurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#retourner-des-valeurs)
+- [Qu'est ce qu'une constante ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#quest-ce-quune-constant)
+- [Déclarer une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#declarer-une-constante)
+- [Utiliser une constante](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes#utiliser-une-constante)
 
-1. [Les blocs de code 🟪](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code)
-    - [Qu'est ce qu'un bloc de code ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#quest-ce-quun-bloc-de-code)
-    - [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#usage)
+</details>
 
-1. [Shadowing 👥](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing)
-    - [Qu'est ce que c'est ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#quest-ce-que-cest)
-    - [Comment ça marche 🤔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#comment-ca-marche)
+<details>
+    <summary>12 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples" >Les tuples</a></summary>
 
-1. [Les references 🔗](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references)
-    - [Qu'est ce qu'une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#quest-ce-quune-reference)
-    - [Comment créer une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-creer-une-reference)
-    - [Comment utiliser une reference 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-utiliser-une-reference)
-    - [Modifier une reference ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#modifier-une-reference)
-        - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
-        - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
-    - [Attention ⚠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#attention)
-        - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
-        - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
+- [Qu'est ce qu'un tuple ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#quest-ce-quun-tuple)
+- [Déclarer un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#declarer-un-tuple)
+- [Acceder aux valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#acceder-aux-valeurs-dun-tuple)
+- [Extraire les valeurs d'un tuple](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples#extraire-les-valeurs-dun-tuple)
 
-1. [Les structs 🧱](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs)
-    - [Qu'est ce qu'un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#quest-ce-quun-struct)
-    - [Comment créer un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-creer-un-struct)
-    - [Comment utiliser un struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-utiliser-un-struct)
-    - [Modifier un struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#modifier-un-struct)
+</details>
 
-1. [Les tuple structs 🧱](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs)
-    - [Qu'est-ce qu'un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#quest-ce-quun-tuple-struct)
-    - [Comment créer un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-creer-un-tuple-struct)
-    - [Comment utiliser un tuple struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-utiliser-un-tuple-struct)
-    - [Comment modifier un tuple struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-modifier-un-tuple-struct)
+<details>
+    <summary>13 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions" >Les fonctions 🛠️</a></summary>
+
+
+- [Qu'est ce qu'une fonction ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#quest-ce-quune-fonction)
+- [Déclarer une fonction](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#declarer-une-fonction)
+- [Retourner des valeurs](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions#retourner-des-valeurs)
+
+</details>
+
+<details>
+    <summary>14 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code" >Les blocs de code 🟪️</a></summary>
+
+- [Qu'est ce qu'un bloc de code ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#quest-ce-quun-bloc-de-code)
+- [Usage](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code#usage)
+
+</details>
+
+<details>
+    <summary>15 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing" >Shadowing 👥</a></summary>
+
+- [Qu'est ce que c'est ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#quest-ce-que-cest)
+- [Comment ça marche 🤔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing#comment-ca-marche)
+
+</details>
+
+<details>
+    <summary>16 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references" >Les références 🔗</a></summary>
+
+- [Qu'est ce qu'une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#quest-ce-quune-reference)
+- [Comment créer une reference ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-creer-une-reference)
+- [Comment utiliser une reference 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#comment-utiliser-une-reference)
+- [Modifier une reference ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#modifier-une-reference)
+    - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
+    - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
+- [Attention ⚠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#attention)
+    - [Premierement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#premierement)
+    - [Deuxiemement](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references#deuxiemement)
+
+</details>
+
+<details>
+    <summary>17 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs" >Les structs 🧱</a></summary>
+
+- [Qu'est ce qu'un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#quest-ce-quun-struct)
+- [Comment créer un struct ❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-creer-un-struct)
+- [Comment utiliser un struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#comment-utiliser-un-struct)
+- [Modifier un struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs#modifier-un-struct)
+
+</details>
+
+<details>
+    <summary>18 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs" > Les tuple structs 🧱</a></summary>
+
+- [Qu'est-ce qu'un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#quest-ce-quun-tuple-struct)
+- [Comment créer un tuple struct ❓](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-creer-un-tuple-struct)
+- [Comment utiliser un tuple struct 🤹](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-utiliser-un-tuple-struct)
+- [Comment modifier un tuple struct ✏️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuple-structs#comment-modifier-un-tuple-struct)
+
+</details>
 
 
 # Des questions ? Envie de montrer votre projet ? 
