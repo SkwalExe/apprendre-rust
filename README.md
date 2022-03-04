@@ -212,3 +212,5 @@ Les pull requests sont les bienvenues, pour des changements majeurs, merci d'ouv
 ## Todo
 - [ ] Ajouter une section sur le langage Rust   
 - [ ] Ajouter un tuto d'installation sur macOS
+
+<a href="https://github.com/SkwalExe#ukraine"><img src="https://raw.githubusercontent.com/SkwalExe/SkwalExe/main/ukraine.jpg" width="100%" height="15px" /></a>
