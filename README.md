@@ -196,11 +196,24 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 <details>
     <summary>19 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/passage-par-reference" >Passage par référence 🖇️</a></summary>
 
-- [Le probleme ❌](#le-probleme)
-- [La solution 💡](#la-solution)
+- [Le probleme ❌](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/passage-par-reference#le-probleme)
+- [La solution 💡](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/passage-par-reference#la-solution)
 
 </details>
-    
+
+<details>
+    <summary>20 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays" >Les arrays 📜</a></summary>
+
+- [Qu'est ce qu'un array❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#quest-ce-quun-array)
+- [Declarer un array](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#declarer-un-array)
+- [Acceder a un array](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#acceder-a-un-array)
+- [Iterer sur un array🔁](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#iterer-sur-un-array)
+  - [Avec la methode iter🛠️](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#avec-la-methode-iter️)
+  - [Iterer avec la longueur d'un array🔢](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#iterer-avec-la-longueur-dun-array)
+- [Specifier le type et la longueur d'un array](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#specifier-le-type-et-la-longueur-dun-array)
+- [Valeurs par defaut d'un array🐧](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-arrays#valeurs-par-defaut-dun-array)
+
+</details>
 
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
