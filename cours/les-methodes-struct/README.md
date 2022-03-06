@@ -91,11 +91,11 @@ Léopold n'est pas adulte ⛔
 ```
 
  
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/les-methodes-struct">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/les-strings">Next Section ⏭️</a></p>
+
 
 ---
 

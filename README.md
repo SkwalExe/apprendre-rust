@@ -224,6 +224,19 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 </details>
 
+<details>
+    <summary>22 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings" >Les strings 📝</a></summary>
+
+
+- [Qu'est-ce qu'un string❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#quest-ce-quun-string)
+- [la methode `len`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#la-methode-len)
+- [la methode `is_empty`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#la-methode-is_empty)
+- [la methode `split_whitespace`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#la-methode-split_whitespace)
+- [la methode `contains`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#la-methode-contains)
+- [la methode `push_str`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-strings#la-methode-push_str)
+
+</details>
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
