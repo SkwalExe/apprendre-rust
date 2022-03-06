@@ -215,6 +215,15 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 </details>
 
+<details>
+    <summary>21 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-methodes-struct" >Les methodes struct 🛠️</a></summary>
+
+- [Qu'est ce qu'une methode struct❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-methodes-struct#quest-ce-quune-methode-struct)
+- [Le mot cle `impl`](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-methodes-struct#le-mot-cle-impl)
+- [Multiple methodes](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-methodes-struct#multiple-methodes)
+
+</details>
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
