@@ -237,6 +237,16 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 </details>
 
+<details>
+    <summary>23 - <a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/implementation-de-traits" >Implementation de traits</a></summary>
+
+- [Qu'est ce qu'un trait❔](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/implementation-de-traits#quest-ce-quun-trait)
+- [Implementer un trait](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/implementation-de-traits#implementer-un-trait)
+- [Utiliser un trait](https://github.com/SkwalExe/apprendre-rust/tree/main/cours/implementation-de-traits#utiliser-un-trait)
+
+
+</details>
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)

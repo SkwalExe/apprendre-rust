@@ -98,11 +98,11 @@ Hello
 Hello world
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/les-strings">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/implementation-de-traits">Next Section ⏭️</a></p>
+
 
 ---
 
