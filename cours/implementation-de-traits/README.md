@@ -53,11 +53,11 @@ Sortie:
 Bonjour, je m'appelle Léopold, J'ai 13 ans et je vis en France 🇫🇷. Je travaille chez Skwal-net, et mes passions sont : 💻, 🛌, 🍔
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/implementation-de-traits">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/les-vecteurs">Next Section ⏭️</a></p>
+
 
 ---
 

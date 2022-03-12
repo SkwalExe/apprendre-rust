@@ -247,6 +247,21 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 
 </details>
 
+
+
+<details>
+    <summary>24 - <a href="cours/les-vecteurs" >Les vecteurs</a></summary>
+
+- [Qu'est ce qu'un vecteur❔](cours/les-vecteurs#quest-ce-quun-vecteur)
+- [Declarer un vecteur](cours/les-vecteurs#declarer-un-vecteur)
+- [Declarer un vecteur avec des valeurs](cours/les-vecteurs#declarer-un-vecteur-avec-des-valeurs)
+- [Acceder aux elements](cours/les-vecteurs#acceder-aux-elements)
+- [Joindre des elements](cours/les-vecteurs#joindre-des-elements)
+- [Ajouter des elements](cours/les-vecteurs#ajouter-des-elements)
+- [Retirer des elements🗑](cours/les-vecteurs#retirer-des-elements)
+  
+</details>
+
 # Des questions ? Envie de montrer votre projet ? 
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
 ![discussion](images/discussions.png)
