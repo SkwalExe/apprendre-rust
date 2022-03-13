@@ -1,8 +1,8 @@
 # Sommaire📚
-- [Qu'est ce qu'un tuple ❓](#quest-ce-quun-tuple)
-- [Déclarer un tuple](#declarer-un-tuple)
+- [Qu'est-ce qu'un tuple❓](#quest-ce-quun-tuple)
+- [Déclarer un tuple](#déclarer-un-tuple)
 - [Acceder aux valeurs d'un tuple](#acceder-aux-valeurs-dun-tuple)
-- [Extraire les valeurs d'un tuple](#extraire-les-valeurs-dun-tuple)
+- [Extraire les valeurs d'un tuple🚪](#extraire-les-valeurs-dun-tuple)
 
 # Les tuples
 ## Qu'est-ce qu'un tuple❓
@@ -10,6 +10,7 @@ Une tuples est un type de données qui peut contenir plusieurs valeurs qui peuve
 > ℹ️ Les tuples sont souvent utilisés pour retourner plusieurs valeurs d'une fonction.
 
 > ℹ️ Les tuples peuvent contenir d'autres tuples.
+
 ## Déclarer un tuple
 Un tuple peut etre déclaré avec la syntaxe suivante:
 ```rust

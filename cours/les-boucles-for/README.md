@@ -1,11 +1,11 @@
 # Sommaire📚
-- [Qu'est ce qu'une boucle for ❓](#quest-ce-quune-boucle-for)
-- [Le mot clé `for` 🔑](#le-mot-cle-for)
+- [Qu'est ce qu'une boucle for❓](#quest-ce-quune-boucle-for)
+- [Le mot clé for🔑](#le-mot-clé-for)
 - [Iteration de vecteurs](#iteration-de-vecteurs)
-    - [Qu'est ce qu'un vecteur ❓](#quest-ce-quun-vecteur)
-    - [Déclarer un vecteur](#declarer-un-vecteur)
-    - [Iterer sur un vecteur](#iterer-sur-un-vecteur)
-    - [Iterer sur un vecteur avec l'indice 🔢](#iterer-sur-un-vecteur-avec-lindice)
+  - [Qu'est ce qu'un vecteur❓](#quest-ce-quun-vecteur)
+  - [Declarer un vecteur](#declarer-un-vecteur)
+  - [Iterer sur un vecteur](#iterer-sur-un-vecteur)
+  - [Iterer sur un vecteur avec l'indice🔢](#iterer-sur-un-vecteur-avec-lindice)
 
 
 # Les boucles for🔢
@@ -76,6 +76,7 @@ Mon 💫 Animal Préféré 💫 est 🐕 Le Chien
 Mon 💫 Animal Préféré 💫 est 🦄 La Licorne
 ```
 > ℹ️ On utilise la méthode `iter()` pour obtenir un itérateur sur le vecteur et eviter que l'ownership du vecteur soit déplacé pour pouvoir l'utiliser apres la boucle
+
 ### Iterer sur un vecteur avec l'indice🔢
 Il est possible d'itérer sur un vecteur en connaissant l'indice de la valeur courante
 > ℹ️ L'indice correspond à la position de la valeur dans le vecteur et commence à 0. Il est egalement appelé index.
