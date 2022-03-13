@@ -36,7 +36,7 @@ Nous pouvons aussi utiliser les mots clé `break` et `continue` comme vu dans la
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-for">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-boucles-for">Section suivante ⏭️</a></p>
 
 
 ---

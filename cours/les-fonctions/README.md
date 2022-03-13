@@ -73,7 +73,7 @@ Sortie:
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-blocs-de-code">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-blocs-de-code">Section suivante ⏭️</a></p>
 
 ---
 

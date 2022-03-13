@@ -80,7 +80,7 @@ I 💖 Rust
 <!--
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/learn-rust/tree/main/course/les-vecteurs">Next Section ⏭️</a></p>
+<p align="right"><a href="../les-vecteurs">Next Section ⏭️</a></p>
 -->
 
 ---

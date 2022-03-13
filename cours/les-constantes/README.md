@@ -49,7 +49,7 @@ Parce que nous utilisons une constante, nous ne pouvons pas la modifier, si nous
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-tuples">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-tuples">Section suivante ⏭️</a></p>
 
 ---
 

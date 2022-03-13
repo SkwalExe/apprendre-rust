@@ -40,7 +40,7 @@ Donc la deuxieme chausette disparait quand le bloc de code est terminé.
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/shadowing">Section suivante ⏭️</a></p>
+<p align="right"><a href="../shadowing">Section suivante ⏭️</a></p>
 
 
 ---

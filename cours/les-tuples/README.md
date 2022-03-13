@@ -45,7 +45,7 @@ Dans le zoo il y a un 🦍 Gorille, un 🦊 Renard, un 🦓 Zebre, et un 🐘 El
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-fonctions">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-fonctions">Section suivante ⏭️</a></p>
 
 
 ---

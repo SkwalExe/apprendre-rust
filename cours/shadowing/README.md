@@ -45,7 +45,7 @@ Mon verre de terre s'appelle Wormy 🪱
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-references">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-references">Section suivante ⏭️</a></p>
 
 
 ---

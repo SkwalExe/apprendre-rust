@@ -8,14 +8,14 @@
 ## Les operateurs de comparaison
 Les operateurs de comparaison sont utilisés pour comparer des valeurs entre elles.
 
-| Opérateur | Description |
-| --------- | ----------- |
-| == | Egal à |
-| != | Différent de |
-| < | Inférieur à |
-| > | Supérieur à |
-| <= | Inférieur ou égal à |
-| >= | Supérieur ou égal à |
+| Opérateur | Description         |
+| --------- | ------------------- |
+| ==        | Egal à              |
+| !=        | Différent de        |
+| <         | Inférieur à         |
+| >         | Supérieur à         |
+| <=        | Inférieur ou égal à |
+| >=        | Supérieur ou égal à |
 
 ## if
 Imaginons etre un programmeur et avoir a ecire un programme qui dit si la veleure d'une variable `x` est positive.
@@ -65,7 +65,7 @@ executons le code avec `x = 5` et nous verrons `Bonjour 👋` dans la console, e
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-boucles-infinies">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-boucles-infinies">Section suivante ⏭️</a></p>
 
 
 ---

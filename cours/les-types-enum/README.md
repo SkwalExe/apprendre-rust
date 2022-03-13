@@ -65,17 +65,17 @@ match animal {
 
 Voici l'execution de ce code avec les differentes valeurs que peut avoir la variaable `animal`:
 
-| Valeur | Sortie |
-|--------|--------|
-| `Animal::Singe` | `🐒 Le Singe` |
-| `Animal::Chien` | `🐕 Le Chien` |
-| `Animal::Licorne` | `🦄 La Licorne` |
-| Autre | `🤔 Je ne connais pas cet animal` |
+| Valeur            | Sortie                           |
+| ----------------- | -------------------------------- |
+| `Animal::Singe`   | `🐒 Le Singe`                     |
+| `Animal::Chien`   | `🐕 Le Chien`                     |
+| `Animal::Licorne` | `🦄 La Licorne`                   |
+| Autre             | `🤔 Je ne connais pas cet animal` |
 
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-constantes">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-constantes">Section suivante ⏭️</a></p>
 
 
 ---

@@ -63,7 +63,7 @@ Il y a 6 Chiens 🐶
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-types-de-donnees">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-types-de-donnees">Section suivante ⏭️</a></p>
 
 ---
 

@@ -42,13 +42,13 @@ fn main() {
 }
 ```
 
-| fichier | description |
-| --- | --- |
-| `📄 Cargo.toml` | le fichier de configuration du projet |
-| `📂 src` | le dossier contenant le code de l'application |
-| `📄 main.rs` | le fichier contenant le programme `hello-world` |
-| `📂 .git` | le dossier contenant les fichier git, vous pouvez l'ignorer si vous n'utilisez pas git |
-| `📄 .gitignore` | le fichier contenant les fichiers à ignorer lors des commits |
+| fichier        | description                                                                            |
+| -------------- | -------------------------------------------------------------------------------------- |
+| `📄 Cargo.toml` | le fichier de configuration du projet                                                  |
+| `📂 src`        | le dossier contenant le code de l'application                                          |
+| `📄 main.rs`    | le fichier contenant le programme `hello-world`                                        |
+| `📂 .git`       | le dossier contenant les fichier git, vous pouvez l'ignorer si vous n'utilisez pas git |
+| `📄 .gitignore` | le fichier contenant les fichiers à ignorer lors des commits                           |
 
 
 ## Compiler et executer un programme🏃
@@ -79,7 +79,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-variables">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-variables">Section suivante ⏭️</a></p>
 
 
 ---

@@ -111,7 +111,7 @@ Nous rencontrerons une erreur car la macro `println!` empreinte la variable `use
 
 ---
 
-<p align="right"><a href="https://github.com/SkwalExe/apprendre-rust/tree/main/cours/les-structs">Section suivante ⏭️</a></p>
+<p align="right"><a href="../les-structs">Section suivante ⏭️</a></p>
 
 ---
 
