@@ -77,11 +77,11 @@ Sortie:
 I 💖 Rust
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="../les-vecteurs">Next Section ⏭️</a></p>
--->
+<p align="right"><a href="../lire-un-fichier">Next Section ⏭️</a></p>
+
 
 ---
 

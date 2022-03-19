@@ -33,15 +33,24 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 1. [Les strings 📝](cours/les-strings)
 1. [Implementation de traits](cours/implementation-de-traits)
 1. [Les vecteurs](cours/les-vecteurs)
+1. [Lire un fichier 📖](cours/lire-un-fichier)
 
 # Des questions ? Envie de montrer votre projet ? 
+
 ### **Vous pouvez ouvrir l'onglet discussion 💬 en haut de l'ecran**
+
 ![discussion](images/discussions.png)
+
 # final
+
 SI vous avez des problemes, n'hesitez pas a ouvrire une issue.
+
 # contributing
+
 Les pull requests sont les bienvenues, pour des changements majeurs, merci d'ouvrire une issue pour expliquer ce que vous voulez changer. 
+
 ## Todo
+
 - [ ] Ajouter une section sur le langage Rust   
 - [ ] Ajouter un tuto d'installation sur macOS
 
