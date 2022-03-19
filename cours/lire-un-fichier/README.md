@@ -1,4 +1,5 @@
 # Sommaire📚
+
 - [Le mot clé `use`](#le-mot-clé-use)
 - [Les methodes `open` et `expect`](#les-methodes-open-et-expect)
 - [La methode `read_to_string`](#la-methode-read_to_string)

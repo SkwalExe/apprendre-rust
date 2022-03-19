@@ -1,10 +1,12 @@
 # Sommaire📚
 
-
-
+- [Le probleme❌](#le-probleme)
+- [La solution💡](#la-solution)
 
 # Passage par référence 🖇️
+
 ## Le probleme❌
+
 Essayons de créer une fonction qui prend un argument.
 
 ```rust
@@ -30,11 +32,13 @@ fn print_zoo(zoo: Zoo) {
     println!("🦭 {}", zoo.phoques);
 }
 ```
+
 La fonction `print_zoo` prend un argument de type `Zoo`(`my_zoo`).
 
 Le code fonctionne comme prévu.
 
 Sortie:
+
 ```
 🐯 2
 🐻 1
@@ -42,11 +46,14 @@ Sortie:
 🐧 8
 🦭 5
 ```
+
 Mais si nous essayons de l'appeler de nouveau:
+
 ```rust
 print_zoo(my_zoo);
 print_zoo(my_zoo);
 ```
+
 Nous obtenons l'erreur suivante:
 
 ![](1.png)
@@ -54,6 +61,7 @@ Nous obtenons l'erreur suivante:
 Simplement parce que lorsque nous appelons `print_zoo`, la variable `my_zoo` est transférée du contexte de la fonction principale vers le contexte de la fonction `print_zoo`.
 
 ## La solution💡
+
 Nous pouvons résoudre ce problème en passant une référence à `my_zoo` au lieu de la variable elle-même lorsque nous appelons la fonction.
 
 Nous aurons également a spécifier que la fonction attend une variable passée par une reference.
@@ -74,7 +82,9 @@ fn print_zoo(zoo: &Zoo) {
     ...
 }
 ```
+
 Sortie:
+
 ```
 🐯 2
 🐻 1
@@ -89,12 +99,9 @@ Sortie:
 🦭 5
 ```
 
-
-<!--
 ---
 
 <p align="right"><a href="../les-arrays">Next Section ⏭️</a></p>
--->
 
 ---
 

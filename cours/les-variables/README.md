@@ -1,11 +1,14 @@
 # Sommaire📚
-- [Déclarer une variable](#declarer-une-variable)
-- [Afficher une variable 💬](#afficher-une-variable)
+
+- [Declarer une variable](#declarer-une-variable)
+- [Afficher une variable💬](#afficher-une-variable)
 - [Modifier une variable](#modifier-une-variable)
-- [Les variables mutables](#les-variables-mutable)
+- [Les variables mutables](#les-variables-mutables)
 
 # Les variables📦
+
 ## Declarer une variable
+
 Pour déclarer une variable, on utilise le mot clé `let` suivi du nom de la variable, du signe `=` et de la valeur de la variable.
 
 ```rust
@@ -13,7 +16,9 @@ let singes = 5;
 ```
 
 Nous avons maintenant une variable  `singes` avec pour valeur `5`.
+
 ## Afficher une variable💬
+
 Nous pouvons maintenant utiliser la variable `singes` dans notre programme, par exemple, pour l'afficher:
 
 ```rust
@@ -22,17 +27,23 @@ println!("Il y a {} Singes 🐒", singes);
 ```
 
 `{}` est un placeholder pour la valeur de `singes`. Il sera remplacé par sa valeur lors de l'exécution du programme.
+
 Si nous exécutons le programme, nous obtenons la sortie suivante:
+
 ```
 Il y a 5 Singes 🐒
 ```
 
 Le programme fonctionne comme si nous avions écrit:
+
 ```rust
 println!("Il y a {} Singes 🐒", 5);
 ```
+
 parce que `singes` est remplacé par sa valeur.
+
 ## Modifier une variable
+
 Nous pouvons modifier la valeur d'une variable en utilisant la syntaxe suivante:
 
 ```rust 
@@ -43,11 +54,13 @@ chiens = 6;
 ```
 
 Mais si nous exécutons ce code, nous obtenons l'erreur suivante:
+
 ![](1.png)
 
 Nous obtenons cette erreur car par défaut, les variables sont immutables. Cela signifie que nous ne pouvons pas modifier leur valeur.
 
 ## Les variables mutables
+
 Nous pouvons définir une variable comme mutable en utilisant le mot clé `mut` avant le nom de la variable.
 
 ```rust
@@ -57,6 +70,7 @@ println!("Il y a {} Chiens 🐶", chiens);
 ```
 
 Sortie:
+
 ```
 Il y a 6 Chiens 🐶
 ```
@@ -66,6 +80,5 @@ Il y a 6 Chiens 🐶
 <p align="right"><a href="../les-types-de-donnees">Section suivante ⏭️</a></p>
 
 ---
-
 
 <p align="right">Cours créé par <a href="https://github.com/SkwalExe/" target="_blank">SkwalExe</a></p>
