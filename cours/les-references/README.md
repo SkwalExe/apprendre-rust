@@ -142,7 +142,7 @@ Nous rencontrerons une erreur car la macro `println!` empreinte la variable `use
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-structs">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-structs">Section suivante ⏭️</a></p>
 
 ---
 

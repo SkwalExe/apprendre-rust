@@ -100,7 +100,7 @@ J'ai mangé 5 🥭
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-boucles-while">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-boucles-while">Section suivante ⏭️</a></p>
 
 ---
 

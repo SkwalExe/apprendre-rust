@@ -106,7 +106,7 @@ I 💖 Rust
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../lire-un-fichier">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../lire-un-fichier">Section suivante ⏭️</a></p>
 
 ---
 

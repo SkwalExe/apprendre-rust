@@ -77,7 +77,7 @@ Sortie :
 <!--
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
 -->
 
 ---

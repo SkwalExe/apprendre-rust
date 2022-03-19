@@ -53,7 +53,7 @@ Mon verre de terre s'appelle Wormy 🪱
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-references">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-references">Section suivante ⏭️</a></p>
 
 ---
 

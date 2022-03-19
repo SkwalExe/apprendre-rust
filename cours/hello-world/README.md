@@ -67,7 +67,7 @@ $ ./main
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../hello-world-cargo">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../hello-world-cargo">Section suivante ⏭️</a></p>
 
 ---
 

@@ -72,7 +72,7 @@ executons le code avec `x = 5` et nous verrons `Bonjour 👋` dans la console, e
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-boucles-infinies">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-boucles-infinies">Section suivante ⏭️</a></p>
 
 ---
 

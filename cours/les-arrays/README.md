@@ -119,7 +119,7 @@ Nous pouvons voir une armée de pingouins 🔫🐧.
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-methodes-struct">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-methodes-struct">Section suivante ⏭️</a></p>
 
 ---
 

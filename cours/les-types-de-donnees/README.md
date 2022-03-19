@@ -51,7 +51,7 @@ let x: i32 = 5;
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-structures-conditionnelles">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-structures-conditionnelles">Section suivante ⏭️</a></p>
 
 ---
 

@@ -44,7 +44,7 @@ Nous pouvons aussi utiliser les mots clé `break` et `continue` comme vu dans la
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-boucles-for">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-boucles-for">Section suivante ⏭️</a></p>
 
 ---
 

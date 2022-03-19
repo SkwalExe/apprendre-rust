@@ -92,7 +92,7 @@ $ cargo run
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-variables">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-variables">Section suivante ⏭️</a></p>
 
 ---
 

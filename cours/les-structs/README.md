@@ -78,7 +78,7 @@ Le nouveau nom d'utilisateur est : Bob le poisson 🐡
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-tuple-structs">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-tuple-structs">Section suivante ⏭️</a></p>
 
 ---
 

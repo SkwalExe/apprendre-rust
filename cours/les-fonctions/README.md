@@ -88,7 +88,7 @@ Sortie:
 
 ---
 
-<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-blocs-de-code">Section suivante ⏭️</a></p>
+<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-blocs-de-code">Section suivante ⏭️</a></p>
 
 ---
 
