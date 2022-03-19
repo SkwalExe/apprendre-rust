@@ -60,7 +60,7 @@ black.0 = 255;
 
 ---
 
-<p align="right"><a href="../passage-par-reference">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../passage-par-reference">Section suivante ⏭️</a></p>
 
 ---
 

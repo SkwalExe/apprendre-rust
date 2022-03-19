@@ -129,7 +129,7 @@ J'adore les 🍓 Fraise à l'indice 2
 
 ---
 
-<p align="right"><a href="../les-types-enum">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-types-enum">Section suivante ⏭️</a></p>
 
 ---
 

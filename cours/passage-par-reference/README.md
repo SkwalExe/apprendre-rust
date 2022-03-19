@@ -101,7 +101,7 @@ Sortie:
 
 ---
 
-<p align="right"><a href="../les-arrays">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-arrays">Section suivante ⏭️</a></p>
 
 ---
 

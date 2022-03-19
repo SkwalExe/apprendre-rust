@@ -50,7 +50,7 @@ Donc la deuxieme chausette disparait quand le bloc de code est terminé.
 
 ---
 
-<p align="right"><a href="../shadowing">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../shadowing">Section suivante ⏭️</a></p>
 
 ---
 

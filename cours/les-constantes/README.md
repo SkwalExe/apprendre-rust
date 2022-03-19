@@ -60,7 +60,7 @@ Parce que nous utilisons une constante, nous ne pouvons pas la modifier, si nous
 
 ---
 
-<p align="right"><a href="../les-tuples">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-tuples">Section suivante ⏭️</a></p>
 
 ---
 

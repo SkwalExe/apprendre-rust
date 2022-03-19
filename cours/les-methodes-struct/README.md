@@ -110,7 +110,7 @@ Léopold n'est pas adulte ⛔
 
 ---
 
-<p align="right"><a href="../les-strings">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../les-strings">Section suivante ⏭️</a></p>
 
 ---
 

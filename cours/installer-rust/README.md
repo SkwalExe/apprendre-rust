@@ -19,7 +19,7 @@ L'installeur de Rust est disponible sur [Rustup.rs](https://rustup.rs/).
 
 ---
 
-<p align="right"><a href="../hello-world">Section suivante ⏭️</a></p>
+<p align="right"><a href="/">Accueil 🏠</a> - <a href="../hello-world">Section suivante ⏭️</a></p>
 
 ---
 
