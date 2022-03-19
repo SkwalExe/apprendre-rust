@@ -90,7 +90,7 @@ Voici l'execution de ce code avec les differentes valeurs que peut avoir la vari
 
 ---
 
-<p align="right"><a href="../..">Accueil 🏠</a> - <a href="../les-constantes">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-constantes">Section suivante ⏭️</a></p>
 
 ---
 
