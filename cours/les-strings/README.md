@@ -123,7 +123,7 @@ Hello world
 
 ---
 
-<p align="right"><a href="../implementation-de-traits">Next Section ⏭️</a></p>
+<p align="right"><a href="../implementation-de-traits">Section suivante ⏭️</a></p>
 
 ---
 

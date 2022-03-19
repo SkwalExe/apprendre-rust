@@ -101,7 +101,7 @@ Sortie:
 
 ---
 
-<p align="right"><a href="../les-arrays">Next Section ⏭️</a></p>
+<p align="right"><a href="../les-arrays">Section suivante ⏭️</a></p>
 
 ---
 

@@ -85,7 +85,7 @@ J'ai acheté des 🧲
 
 ## Specifier le type et la longueur d'un array
 
-Nous pouvons spécifier le type et la longueur d'un array quand nous le declarons avec la syntaxe suivente : `let array: [type; longueur] = [];`
+Nous pouvons spécifier le type et la longueur d'un array quand nous le declarons avec la syntaxe suivante : `let array: [type; longueur] = [];`
 
 ```rust
 let array_objets: [char; 5] = ['👓', '👕', '🧽', '🩴', '🧲'];
@@ -119,7 +119,7 @@ Nous pouvons voir une armée de pingouins 🔫🐧.
 
 ---
 
-<p align="right"><a href="../les-methodes-struct">Next Section ⏭️</a></p>
+<p align="right"><a href="../les-methodes-struct">Section suivante ⏭️</a></p>
 
 ---
 

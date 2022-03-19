@@ -77,7 +77,7 @@ Sortie :
 <!--
 ---
 
-<p align="right"><a href="../les-vecteurs">Next Section ⏭️</a></p>
+<p align="right"><a href="../les-vecteurs">Section suivante ⏭️</a></p>
 -->
 
 ---

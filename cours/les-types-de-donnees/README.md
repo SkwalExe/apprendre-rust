@@ -35,7 +35,7 @@ String         -> chaîne de caractères ✍️
 
 Quand nous déclarons une variable, nous n'avons pas besoin de spécifier son type contrairement a dans d'autres langages comme Java ou C, parce que Rust est un langage dit `autotypé`, ce qui signifie que Rust va automatiquement determiner le type de la variable.
 
-Mais, nous pouvons quand meme saisir manuellement le type de la variable avec la syntaxe suivente :
+Mais, nous pouvons quand meme saisir manuellement le type de la variable avec la syntaxe suivante :
 
 ```rust
 let x: i32 = 5;

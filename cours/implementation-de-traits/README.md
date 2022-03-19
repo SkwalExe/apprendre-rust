@@ -67,7 +67,7 @@ Bonjour, je m'appelle Léopold, J'ai 13 ans et je vis en France 🇫🇷. Je tra
 
 ---
 
-<p align="right"><a href="../les-vecteurs">Next Section ⏭️</a></p>
+<p align="right"><a href="../les-vecteurs">Section suivante ⏭️</a></p>
 
 ---
 
