@@ -1,7 +1,8 @@
 # Apprendre Rust 🦀 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FSkwalExe%2Flearn-rust&text=Je%20suis%20en%20train%20d%27apprendre%20Rust%20!&via=skwalexe)
 
-
 ![banner](images/banner.png)
+
+Cours gratuits de Rust 🦀 en Francais 🇫🇷
 
 Avant d'apprendre un langage de programmation, il faut comprendre les bases de la programmation, [**l'algorithmique**](https://www.youtube.com/watch?v=kk6YbA5I-Iw&list=PL2aehqZh72Lumvy4tSekr6Rzcgwn15MLI)
 
