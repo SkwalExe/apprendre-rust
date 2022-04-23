@@ -74,11 +74,9 @@ Sortie :
 📄 contenu : World, Hello 👋
 ```
 
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../arguments-de-ligne-de-commande">Section suivante ⏭️</a></p>
 
 ---
 
