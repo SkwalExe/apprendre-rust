@@ -106,11 +106,9 @@ Bonjour, Jean-Pierre !
 > ℹ️ Avec cargo, nous utilisons `--` pour spécifier les arguments de ligne de commande qui seront passés à notre programme une fois compilé.
 
 
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../ecrire-dans-un-ficher">Section suivante ⏭️</a></p>
 
 ---
 
