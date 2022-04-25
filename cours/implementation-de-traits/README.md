@@ -1,6 +1,7 @@
 # Sommaire📚
 
 - [Qu'est ce qu'un trait❔](#quest-ce-quun-trait)
+  - [Exemple](#exemple)
 - [Implementer un trait](#implementer-un-trait)
 - [Utiliser un trait](#utiliser-un-trait)
 
@@ -9,6 +10,30 @@
 ## Qu'est ce qu'un trait❔
 
 Un trait est une collection de methodes communes a chaque type. Les traits sont similaires aux interfaces certains autres langages.
+
+### Exemple
+
+Le trait `std::fmt::Display` est un trait qui definit comment **afficher** un type de donné.
+
+```rust
+print!("{}", 42);
+```
+
+Ici, `42` est une valeure de type `i32`, et elle ne peut pas directement etre affichée car ce n'est pas un string.
+
+Donc pour etre affiché par la macro `print!` il faut d'abord le convertir en string.
+
+C'est ce que fait le trait `std::fmt::Display`
+
+Quand nous executons
+
+```rust
+print!("{}", 42);
+```
+
+La macro `print!` va appeler le trait `std::fmt::Display` pour savoir comment afficher la valeure `42`.
+
+Ce systeme est le meme pour tous les types de données.
 
 ## Implementer un trait
 
