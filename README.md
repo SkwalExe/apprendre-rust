@@ -36,6 +36,7 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 1. [Les vecteurs](cours/les-vecteurs)
 1. [Lire un fichier 📖](cours/lire-un-fichier)
 1. [Les arguments de ligne de commande](cours/arguments-de-ligne-de-commande)
+1. [Ecrire dans un fichier ✍️](cours/ecrire-dans-un-fichier/)
 
 # Des questions ? Envie de montrer votre projet ? 
 
