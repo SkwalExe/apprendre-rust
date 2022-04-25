@@ -56,11 +56,10 @@ $ cargo run
 Hello World
 ```
 
-<!--
+
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../definir-des-traits">Section suivante ⏭️</a></p>
 
 ---
 
