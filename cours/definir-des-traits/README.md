@@ -35,11 +35,9 @@ Bonjour, je suis la variable s et mon type est : String
 
 
 
-<!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
--->
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../le-mot-cle-match">Section suivante ⏭️</a></p>
 
 ---
 
