@@ -1,10 +1,13 @@
 # Sommaire📚
 
-- [The `match` keyword](#the-match-keyword)
+- [Le mot clé match 🔍](#le-mot-clé-match-)
 - [Multiple patterns](#multiple-patterns)
-- [Checking if a value is in a range](#checking-if-a-value-is-in-a-range)
+- [Verifier si une valeur est dans une intervalle](#verifier-si-une-valeur-est-dans-une-intervalle)
 
 # Le mot clé match 🔍
+
+## Le mot clé match 🔍
+
 
 Le mot clé `match` est similaire aux `switch` en d'autres langages.
 
