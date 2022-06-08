@@ -39,6 +39,8 @@ Avant d'apprendre un langage de programmation, il faut comprendre les bases de l
 1. [Ecrire dans un fichier ✍️](cours/ecrire-dans-un-fichier/)
 1. [Definir des traits](cours/definir-des-traits)
 1. [Le mot cle match 🔍](cours/le-mot-cle-match)
+1. [Lire les entrees utilisateur ⌨️](cours/lire-les-entrees-utilisateur/)
+
 
 # Des questions ? Envie de montrer votre projet ? 
 

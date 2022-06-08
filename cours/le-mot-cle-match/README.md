@@ -86,7 +86,7 @@ $ cargo run
 <!--
 ---
 
-<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../les-vecteurs">Section suivante ⏭️</a></p>
+<p align="right"><a href="https://skwalexe.github.io/apprendre-rust/">Accueil 🏠</a> - <a href="../lire-les-entrees-utilisateur">Section suivante ⏭️</a></p>
 -->
 
 ---
